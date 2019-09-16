@@ -81,7 +81,7 @@ public class BinaryTree {
      * /   \
      * B     C
      * / \   / \
-     * D   E F   G
+     * ReallyFinal   E F   G
      * \    /
      * H   I
      *
@@ -92,7 +92,7 @@ public class BinaryTree {
         TreeNode A = new TreeNode("A");
         TreeNode B = new TreeNode("B");
         TreeNode C = new TreeNode("C");
-        TreeNode D = new TreeNode("D");
+        TreeNode D = new TreeNode("ReallyFinal");
         TreeNode E = new TreeNode("E");
         TreeNode F = new TreeNode("F");
         TreeNode G = new TreeNode("G");
